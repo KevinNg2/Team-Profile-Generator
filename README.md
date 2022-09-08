@@ -8,6 +8,14 @@
 * ['Generated Sample HTML']()
 * ['Team Profle Generator - Video Walkthrough']()
 
+## User Story
+  
+```
+AS A manager
+I WANT to generate a webpage that displays my team's basic info
+SO THAT I have quick access to their emails and GitHub profiles
+```
+
 ## Installation 
 To generate the Team Profile, git clone the repo to your local repo in order to have the Node project. Run npm install to install the npm package dependencies as specified in the package.json.
 
