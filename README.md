@@ -17,7 +17,7 @@ Badges provided by [shields.io](https://shields.io/)
 
 ## Link to the App
 * ['Team Profile Generator - Github'](https://github.com/KevinNg2/Team-Profile-Generator)
-* ['Generated Sample HTML']()
+* ['Generated Sample HTML'](http://127.0.0.1:5500/dist/index.html)
 * ['Team Profle Generator - Video Walkthrough'](https://drive.google.com/file/d/1ime2eFYViknbWe-oAJjkeJ-P27WcKNSO/view)
 
 ## User Story
