@@ -1,5 +1,16 @@
 <h1 align="center">Team Profile Generator Using Node.js</h1>
 
+<p align="center">
+![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/kevinng2/readmecreator?style=flat&logo=appveyor)
+![Badge for GitHub last commit](https://img.shields.io/badge/last%20commit-september%202022-blue)
+![Badge for Javascript](https://img.shields.io/badge/-Javascript-yellow)
+![Badge for Node.js](https://img.shields.io/badge/-Node.js-yellowgreen)
+![Badge for Inquirer](https://img.shields.io/badge/-inquirer-red)
+![Badge for Json](https://img.shields.io/badge/-Json-blue)
+![Badge for Screencastify](https://camo.githubusercontent.com/d54408ad4380fbd4dac972ca2699da5aec0cfca076470142ab31fdab74c321bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d73637265656e636173746966792d6c6967687467726579)</p>
+
+Badges provided by [shields.io](https://shields.io/)
+
 ## Description 
 - This application is designed to generate a team profile based on user input. It features the inquirer module from node.js and displays the input on a generated HTML page with a CSS style sheet. This project uses Object Oriented Programming (OOP) and Test Driven Development (TDD) with Jest.
 
