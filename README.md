@@ -1,4 +1,4 @@
-<h1 align="center">Team Profile Generator Using Node.js</h1>
+<h1 align="center">Team Profile Generator</h1>
 
 ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/kevinng2/readmecreator?style=flat&logo=appveyor)
 ![Badge for GitHub last commit](https://img.shields.io/badge/last%20commit-september%202022-blue)
