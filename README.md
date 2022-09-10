@@ -13,7 +13,7 @@
 Badges provided by [shields.io](https://shields.io/)
 
 ## Description 
-- This application is designed to generate a team profile based on user input. It features the inquirer module from node.js and displays the input on a generated HTML page with a CSS style sheet. This project uses Object Oriented Programming (OOP) and Test Driven Development (TDD) with Jest.
+This application is designed to generate a team profile based on user input. It features the inquirer module from node.js and displays the input on a generated HTML page with a CSS style sheet. This project uses Object Oriented Programming (OOP) and Test Driven Development (TDD) with Jest.
 
 ## Link to the App
 * ['Team Profile Generator - Github'](https://github.com/KevinNg2/Team-Profile-Generator)
