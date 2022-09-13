@@ -17,7 +17,7 @@ This application is designed to generate a team profile based on user input. It 
 
 ## Link to the App
 * ['Team Profile Generator - Github'](https://github.com/KevinNg2/Team-Profile-Generator)
-* ['Generated Sample HTML'](http://127.0.0.1:5500/dist/index.html)
+* ['Generated Sample HTML'](./assets/teamprofilegenerator.snapshot.png)
 * ['Team Profile Generator - Video Walkthrough'](https://drive.google.com/file/d/1ime2eFYViknbWe-oAJjkeJ-P27WcKNSO/view)
 
 ## User Story
